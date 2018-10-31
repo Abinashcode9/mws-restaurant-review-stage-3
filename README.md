@@ -1,4 +1,4 @@
-# Mobile Web Specialist Certification Course (Nanodegree)
+# Udacity Mobile Web Specialist Nanodegree
 
 ## About this project
 
